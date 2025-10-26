@@ -1,0 +1,16 @@
+{
+  "name": "Actividades Alfa y Omega",
+  "short_name": "Alfa y Omega",
+  "description": "Registro de cultos y actividades religiosas semanales.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#fdfdfd",
+  "theme_color": "#6a994e",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
